@@ -4,7 +4,6 @@ title:  "Johnny is at The Bar"
 date:   2021-05-27 18:44:15 -0400
 categories: Posts
 ---
-# Johnny's at the bar
 
 **How did you know?** I asked, not sure I wanted the answer. I thought I had been careful. I thought she would simply not notice.
 I mean, we have been walking to school together for over a year now and she never seem to pay attention to me or what I wear for that matter.
